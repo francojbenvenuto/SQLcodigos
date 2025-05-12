@@ -7,7 +7,7 @@
 		-- ETC
 		-- MS SQL (SQL SERVER) TRANSACT SQL (TSQL) link: https://go.microsoft.com/fwlink/?linkid=866662
 		-- link MS-SQLMS https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
-		
+		dsd
 
  -- BASES DE DATOS
  -- Una base de datos, es un elemento dentro del motor de bases de datos. 
@@ -29,7 +29,7 @@ CREATE DATABASE [CLASE SABADO '23]   -- entre corchetes es para tener caracteres
 -- borrado de una base de datos
  DROP DATABASE new_database_name;
 
-
+ 
  -- validar si existe la base de datos
  SELECT * FROM sys.databases;
 
