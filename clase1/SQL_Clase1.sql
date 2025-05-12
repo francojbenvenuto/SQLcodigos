@@ -7,7 +7,7 @@
 		-- ETC
 		-- MS SQL (SQL SERVER) TRANSACT SQL (TSQL) link: https://go.microsoft.com/fwlink/?linkid=866662
 		-- link MS-SQLMS https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
-		dsd
+	
 
  -- BASES DE DATOS
  -- Una base de datos, es un elemento dentro del motor de bases de datos. 
