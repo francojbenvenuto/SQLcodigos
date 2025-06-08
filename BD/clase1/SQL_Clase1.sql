@@ -81,7 +81,7 @@ varchar (L)     --> Almacena la cadena ingresada y si es de largo menor
 				--> ejemplo: VARCHAR(5) "ANA" guarda ANA y 3. si guarda JUAN guarda la cadena y 4.
 varchar(MAX)    --> MAXIMO PERMITIDO POR EL MOTOR 
 
--- CADENAS DE TEXTO UNICODE --
+-- CADENAS DE TEXTO UNICODE --  CHINAS ARABES, COSAS UNICAS, LA Ñ SE PUEDE HACER CON ASCII Y CHAR
 nchar (L)
 nvarchar (L)
 nvarchar(MAX)
